@@ -12,3 +12,4 @@ Video : http://www.youtube.com/watch?v=CPmkKQg2pnw <br/>
 User manual : https://github.com/csprajeeth/nk-Conqueror/wiki/User-Manual <br/>
 Installation + Intro  : https://github.com/csprajeeth/nk-Conqueror/wiki/Welcome <br/>
 
+Download : https://github.com/csprajeeth/rk-bot/archive/master.zip
